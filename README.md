@@ -1,14 +1,15 @@
 # 🌍 Agro-GIS & Odoo ERP Integration Suite
 
-![Python](https://shields.io)
-![ArcGIS](https://shields.io)
-![Odoo](https://shields.io)
-![PostGIS](https://shields.io)
-![License](https://shields.io)
-
 Ecosistema de soluciones modulares para la **integración bidireccional entre sistemas de información geográfica (Esri ArcGIS) y planificación de recursos empresariales (Odoo ERP)**. 
 
 Este repositorio demuestra patrones de arquitectura geoespacial aplicados a la gestión de activos territoriales, infraestructuras hidráulicas, catastro y recursos agroambientales.
+
+| Tecnología | Versión / Stack | Rol en la Arquitectura |
+| :--- | :--- | :--- |
+| **Esri ArcGIS** | ArcGIS API for Python / Maps SDK JS | Almacenamiento espacial, análisis ráster y visor web |
+| **Odoo ERP** | Odoo 17.0 / 18.0 | Gestión administrativa, censo, mantenimiento y facturación |
+| **Python** | 3.10+ (`GeoPandas`, `Pandas`, `xmlrpc`) | Orquestación ETL y geoprocesamiento |
+| **Base de Datos** | PostgreSQL + PostGIS | Persistencia relacional y alfanumérica |
 
 ---
 
