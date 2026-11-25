@@ -114,6 +114,6 @@ Flujo de geoprocesamiento orientado a la agricultura de precisión y la gestión
 
 ## 👤 Autor
 
-Desarrollado por **[Tu Nombre]** — *Especialista GIS & Desarrollador de Integraciones.*
-* 🔗 [LinkedIn](https://linkedin.com)
-* 📧 [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+Desarrollado por **Luc Pinheiro** — *Especialista GIS & Desarrollador de Integraciones.*
+* 🔗 [GitHub](https://github.com)
+* 💼 [LinkedIn](https://linkedin.com)
